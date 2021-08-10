@@ -10,7 +10,9 @@ ________________________________________________________________________________
 ## Usage
 ___________________________________________________________________________________________________  
 
-The tool was developed in as a Jupyter notebook using __Python3__, __Tensorflow 2.5.0__ and __Numpy 1.19.5__ and __are required to run this tool__. Make sure you have the required dependencies beforehand. Download the required files and folders to use the tool. Open the AIPerc.ipynb file and run the cells. A prompt will appear and ask for the r1, 2a2, r2 and frac values where they are the following:
+The tool was developed as a Jupyter notebook using Python3, Tensorflow 2.5.0 and Numpy 1.19.5. These __are required to run this tool__. Make sure you have the required dependencies beforehand. 
+
+Download the required files and folders to use this tool. Once completed, open the AIPerc.ipynb file and run the cells. A prompt will appear and ask for the r1, 2a2, r2 and frac values where they are the following:
 * r1:	  the ratio of the axes for ellipse 1. 
   * Its range is 0 to 1000 integers. 
 * 2a2:	  the length of axis a for ellipse 2. 
