@@ -3,7 +3,7 @@ ________________________________________________________________________________
 # Percolation Threshold Estimator
 ___________________________________________________________________________________________________  
 
-This tool was developed for as an AI Trained to Predict the Threshold of 2D Ellipse Percolation Systems. A Multi-layer Perceptron Neural Network was used to develop the regression model. As a user need only _download the NNModel folder and AIPerc.ipynb file_.
+This tool was developed for as an AI Trained to Predict the Threshold of 2D Ellipse Percolation Systems. A Multi-layer Perceptron Neural Network was used to develop the regression model. A user need only _download the NNModel folder and AIPerc.ipynb file_.
   
 ___________________________________________________________________________________________________
 
